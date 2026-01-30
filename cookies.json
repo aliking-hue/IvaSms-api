@@ -1,1 +1,86 @@
-#Your Json Formated Cookies Here
+[
+{
+    "domain": ".ivasms.com",
+    "expirationDate": 1777545198,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_fbp",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "fb.1.1769769193663.65410226798065065",
+    "id": 1
+},
+{
+    "domain": ".ivasms.com",
+    "expirationDate": 1804329198.469303,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.2.247704701.1769769193",
+    "id": 2
+},
+{
+    "domain": ".ivasms.com",
+    "expirationDate": 1769769253,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_gat_gtag_UA_191466370_1",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "1",
+    "id": 3
+},
+{
+    "domain": ".ivasms.com",
+    "expirationDate": 1769855598,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.2.671621932.1769769193",
+    "id": 4
+},
+{
+    "domain": "www.ivasms.com",
+    "expirationDate": 1769776398.026859,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "ivas_sms_session",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJpdiI6Ii81RjZqNHFWWUlrUUdXd2Qra00rbkE9PSIsInZhbHVlIjoiZUU1eEdqK0pnUmxTak1xeG5QVC95Q1Q5c29UZU1RNENoZW5wdFZwc0g2ZURybFl2Yyt0MngrbWNrMk9lWkRuQjB0N0NhanE1dlFkd0dOMzNzdXlYR1A1dlpVNnNCMy8wWG5ZZEJnai9EY25HSUd6T2o5Z29NQ00zdkpsSlhKaEIiLCJtYWMiOiIzN2RlNWZlY2NhMDE1MzVhZGExZTkzODUwZmJlZjdjZjFiMDc0ZTMyYTZjZmJlYjQ4YTcwMWNhYTcyZWFmYmZjIiwidGFnIjoiIn0%3D",
+    "id": 5
+},
+{
+    "domain": "www.ivasms.com",
+    "expirationDate": 1769776398.026731,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "XSRF-TOKEN",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJpdiI6InJyeUc2S3h5WUpkNDBZdnVnSFRFdFE9PSIsInZhbHVlIjoieVJ4Uk4zZGtYclhDYVg5c2dQSitLVGNFR245dkJRZ09Ta1U2NFcxVHhUSGJONlhMZUdZYUp6SXhpRG53RFlqK0hCZThhSVprWWVNZ3g2SmRMdmU3NTRObHhoRDFRcVFyRStLUHFyNTBETmhRWVdrMGQ4bit6SmNYWU1JZ2c2dVAiLCJtYWMiOiIzNzYzMWY3YjgyMWY0MTZhZjNjNzEwYjk0YTE2NzY5ODlhZmM4MjNhOWY2YzA0OTE1MTBlYWI2MWQ1MTkxYjA3IiwidGFnIjoiIn0%3D",
+    "id": 6
+}
+]
